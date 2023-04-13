@@ -1,6 +1,8 @@
 # Name:Jiwoong Jung
 # SBUID: 115943061
-
+##################### SCORE ######################
+####### Score:  6/10
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
@@ -38,7 +40,7 @@ def what_to_wear(celsius):
 # TODO: Fill the functions shoelace_triangle_area, euclidean_distance and
 # compute_triangle_perimeter from scratch  
 
-def shoelace_triangle_area(x1, y1, x2, y2, x3, y3):
+def shoelace_triangle_area(x1, y1, x2, y2, x3, y3):   # The area of the triangle is : 6.0 , its perimeter is : 12.0 is wrong.. check for the logic and parenthesis in python. Also use variables and functions --> -4
     return abs((((x1*y2) + (x2*y3) + (x3*y1)) - ((x1*y3) + (x2*y1) + (x3*y2)))/2)
 
 def euclidean_distance(x1, y1, x2, y2):

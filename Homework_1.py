@@ -1,7 +1,7 @@
 # Name:Jiwoong Jung
 # SBUID: 115943061
 ##################### SCORE ######################
-####### Score:  6/10
+####### Score:  8/10
 #################################################
 # Remove the ellipses (...) when writing your solutions.
 
